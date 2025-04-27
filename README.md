@@ -1,5 +1,5 @@
 
-The database was designed with multiple interconnected tables, including Customers, Products, Orders, OrderDetails, and Inventory. Data was inserted to simulate real-world transactions, and SQL queries were used to perform critical analyses, such as tracking best-selling products and identifying peak sales periods  
+The database was designed with multiple interconnected tables, including Customers, Products, Orders and OrderDetails, . Data was inserted to simulate real-world transactions, and SQL queries were used to perform critical analyses, such as tracking best-selling products and identifying peak sales periods  
 # RHINO VENTURES Analysis Using MySQL
 # Project Overview
 This project is a database solution designed to help a retail store manage and analyze its sales, customers, products, and inventory using MySQL. It aims to demonstrate how structured data storage and SQL queries can support better business decisions and optimize store operations.
