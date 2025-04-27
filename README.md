@@ -81,13 +81,11 @@ Edit
 SELECT product_name, quantity_in_stock
 FROM Inventory
 WHERE quantity_in_stock < 10;
-📚 Future Improvements
+## Future Improvements
 Add user authentication for store staff.
 
 Implement automated stock alerts.
 
 Create a dashboard to visualize key store metrics.
 
-📌 Author
-Project by: [Your Name]
 
